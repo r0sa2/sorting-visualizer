@@ -9,7 +9,10 @@ This repository is intended to document the implementation of a sorting visualiz
 
 ## Sample Visualizations
 ### Selection Sort
-<link rel="preload" as="image" href="/assets/selection_sort.gif">
+<p align="center">
+    ![Selection Sort](/assets/selection_sort.gif)
+</p>
+
 <p align="center">
     <img src="/assets/selection_sort.gif" alt="Selection Sort" height="75%" width="75%"/>
 </p>
